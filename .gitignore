@@ -1,0 +1,30 @@
+# Environment
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+*backup*
+
+# ThinkStats2 course files (not part of this project)
+code/
+
+# Temp/generated files
+page_*.png
+
+# Claude
+CLAUDE.md
+PROJECT_STATE.md
+NOTEBOOKS_PLAN.md
+.claude/
+
+# Windows
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+.DS_Store
