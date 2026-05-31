@@ -48,7 +48,7 @@ home_mortgage_trends_by_age/
 ├── home_mortgage_trends_by_age.ipynb   # Full analysis notebook (9 sections)
 ├── column_head_mlar.docx               # HMDA LAR column header reference
 ├── field_list.xlsx                     # HMDA data dictionary (field descriptions)
-├── Final Project PDF - DSC530 - Hoehler.pdf  # Rendered PDF of the notebook
+├── hmda_mortgage_analysis.pdf                 # Rendered PDF of the notebook
 ├── requirements.txt
 └── .gitignore
 ```
